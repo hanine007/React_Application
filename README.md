@@ -17,4 +17,7 @@ Avant de commencer, assurez-vous d'avoir Node.js installé sur votre système.
 2 . npm install
  ## Démarrer le serveur
  npm run dev
+ ## Pour naviguer entre les different Pages 
+ localhost/page que vous voullez
+ 
 
